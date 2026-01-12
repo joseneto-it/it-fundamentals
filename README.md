@@ -1,2 +1,4 @@
-# it-fundamentals
-Core IT fundamentals for cloud and security foundations
+# IT Fundamentals
+
+This repository contains my study notes on core IT fundamentals.
+
