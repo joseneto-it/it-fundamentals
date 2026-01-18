@@ -82,6 +82,22 @@ Traffic control and address translation mechanisms.
 
 ---
 
+## Network Architecture Diagram
+
+The diagram below represents a **basic and secure cloud network architecture**,
+illustrating how traffic flows from the internet through security controls
+into internal services.
+
+![Basic Network Diagram](./diagrams/basic-network-diagram.png)
+
+**What this diagram demonstrates:**
+- Controlled inbound traffic from the internet (HTTPS only)
+- Firewall enforcing least privilege
+- Gateway routing traffic into the internal network
+- Separation between public-facing components and internal services
+- Foundation for defense-in-depth in cloud environments
+
+
 ## Scope
 
 This documentation focuses on **foundational networking concepts**.
